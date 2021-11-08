@@ -1,4 +1,4 @@
-# LeNet_based_architecture
+# LeNet based architecture with Fashion MNIST dataset
 
 ### Goal: Try to construct a more complex network based on LeNet to improve its accuracy. 
 
